@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Data.iml" filepath="$PROJECT_DIR$/.idea/Data.iml" />
+      <module fileurl="file://G:/Mon Drive/Travail/I1/DataViz/.idea/DataViz.iml" filepath="G:/Mon Drive/Travail/I1/DataViz/.idea/DataViz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../MSPR/Election/.idea/Election.iml" filepath="$PROJECT_DIR$/../../MSPR/Election/.idea/Election.iml" />
+    </modules>
+  </component>
+</project>
